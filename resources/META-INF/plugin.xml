@@ -1,0 +1,19 @@
+<idea-plugin>
+  <id>rider-cake-plugin</id>
+  <name>CakePlugin</name>
+  <version>0.1</version>
+  <vendor email="anna.dolbina@gmail.com">Anna Dolbina</vendor>
+  <description><![CDATA[
+A simple C# Cake plugin for JetBrains Rider IDE.
+It lists all the Cake tasks in a tool window.
+These tasks can be launched by double-click, and Cake output will appear in the console.
+  ]]></description>
+
+  <idea-version since-build="173.0"/>
+  <depends>com.intellij.modules.rider</depends>
+
+  <extensions defaultExtensionNs="com.intellij">
+    <toolWindow id="Cake Tasks" anchor="right" factoryClass="org.cakeplugin.CakeToolWindowFactory" icon="CakeIcons.CAKE_ICON"/>
+  </extensions>
+
+</idea-plugin>
