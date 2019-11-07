@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/CakePlugin.iml" filepath="$PROJECT_DIR$/CakePlugin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/CakeIntegration.iml" filepath="$PROJECT_DIR$/CakeIntegration.iml" />
     </modules>
   </component>
 </project>
