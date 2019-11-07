@@ -1,5 +1,5 @@
-# Cake Plugin
-A simple [Cake](https://cakebuild.net/) plugin for JetBrains Rider IDE.
+# Cake Integration
+A simple [Cake](https://cakebuild.net/)  integration plugin for JetBrains Rider IDE.
 
 ### Features
 * Adds "Cake Tasks" tool window with the list of tasks to the IDE.
