@@ -1,7 +1,7 @@
 <idea-plugin>
   <id>rider-cake-plugin</id>
   <name>CakeIntegration</name>
-  <version>0.1</version>
+  <version>0.2</version>
   <vendor email="anna.dolbina@gmail.com">Anna Dolbina</vendor>
   <description><![CDATA[
 A simple C# Cake integration plugin for JetBrains Rider IDE.
